@@ -1,0 +1,67 @@
+
+
+h2{
+    background-color: beige;
+    color: darkslategray;
+    text-align: center;
+}
+
+
+.tablesolid > table {
+        border-width: 1px;
+        border-style: solid;
+        border-color: darkslategray;
+    }
+.tablesolid>table th, .tablesolid> table td{
+    border: 1px solid darkslategray;
+    text-align:center;
+    background-color: beige ;
+    color: darkslategray;
+
+}
+
+
+#list{
+    background: beige;
+    color: darkslategray;
+    padding :5px
+}
+ol{
+    list-style-type:upper-roman;
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
+
+img {
+    border: 5px solid rgb(206, 91, 37);
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+
+  }
+
+h3{
+    background-color: beige;
+    color:darkslategray;
+    text-align: center;
+    text-decoration: solid;
+}
+
+
+a:hover{
+    color: rgb(29, 169, 125);
+}
+
+
+ 
+a:link{
+    color:rgb(14, 46, 14);
+
+}
+
+
+a:visited{
+    color: rgb(48, 72, 48);
+}
